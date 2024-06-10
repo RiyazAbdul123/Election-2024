@@ -1,4 +1,5 @@
 class Car {
+    //Parameterized Constructor
     constructor(brand) {
       this.carname = brand;
     }
