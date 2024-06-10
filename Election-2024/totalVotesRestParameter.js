@@ -1,3 +1,4 @@
+
 totalVotes=(...votes)=>{
     let total=0;
     for(let each of votes){
